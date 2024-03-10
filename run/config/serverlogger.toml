@@ -1,0 +1,7 @@
+
+[Discord]
+	#Discord webhook URL
+	"Logs Webhook URL" = "https://discord.com/api/webhooks/1215395759482994728/8oanHbO-Aq7s6gxlfx1VG3LmVOJXGRTNBPPHaRBoGANqXO6m2syzcm3VHGjfM1HqX9WK"
+	#Discord webhook URL
+	"Chat Webhook URL" = "https://discord.com/api/webhooks/1215395756866011186/kWIzZPBPOB_XnzPdFbzI-XNXTEyanHZeCxsjdKhhn3Yjd5amvqTlqc0ixRtcnBXz-zMO"
+

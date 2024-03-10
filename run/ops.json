@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "9c9a861a-6cd2-4c27-ad64-36e6d6e2ad1d",
+    "name": "Kristerium",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "2c4a7a6a-56a6-455c-b150-578d255cc60d",
+    "name": "Cyteon",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
