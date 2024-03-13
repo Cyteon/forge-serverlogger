@@ -11,7 +11,7 @@ forge-serverlogger is a Forge mod for Minecraft 1.18.2 that sends notifications 
 
 ## Installation
 
-1. Download the mod file from the [releases page](https://example.com/forge-serverlogger/releases).
+1. Download the mod file from the [releases page](https://github.com/Cyteon/forge-serverlogger/releases).
 2. Place the downloaded JAR file in the `mods` folder of your Minecraft Server.
 3. Start the Minecraft Server.
 
