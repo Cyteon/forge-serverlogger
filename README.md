@@ -35,11 +35,12 @@ Once the mod is installed and configured, it will automatically send notificatio
 Building from Source
 If you want to build the mod from source, you'll need to have the following tools installed:
 
-Java Development Kit (JDK) 17 or later
-Gradle
-Clone the repository: `git clone https://github.com/Cyteon/forge-serverlogger.git`
-Navigate to the project directory: `cd forge-serverlogger`
-Build the mod: `./gradlew build`
+- Java Development Kit (JDK) 17 or later
+- Gradle
+
+1. Clone the repository: `git clone https://github.com/Cyteon/forge-serverlogger.git`
+2. Navigate to the project directory: `cd forge-serverlogger`
+3. Build the mod: `./gradlew build`
 The built JAR file will be located in the build/libs directory.
 
 Contributing
